@@ -1,0 +1,6 @@
+framework module BRScanKit {
+  umbrella header "BRScanKit.h"
+
+  export *
+  module * { export * }
+}
